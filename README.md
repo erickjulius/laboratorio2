@@ -26,7 +26,7 @@ Breve descripción del proyecto en una o dos oraciones.
 
 Descripción breve de cómo usar el proyecto y las características principales.
 
-## Contribución
+## En caso de Contribución
 
 1. Haz un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
