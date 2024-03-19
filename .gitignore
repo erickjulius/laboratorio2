@@ -25,11 +25,6 @@
 /web/vendor
 /web/core
 /web/modules/
-/web/themes/bootstrap5/bin/
-/web/themes/bootstrap5/config/
-/web/themes/bootstrap5/content/
-/web/themes/bootstrap5/dist/
-/web/themes/bootstrap5/src/
 /web/modules/README.txt
 /web/profiles/README.txt
 /web/sites/development.services.yml
