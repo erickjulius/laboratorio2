@@ -77,6 +77,7 @@ composer.lock
 .editorconfig
 .gitattributes
 /web/themes/bootstrap5
+/web/themes/bootstrap5/dist
 /web/themes/README.txt
 /web/README.md
 /web/themes/custom/laboratoriogit2/config
