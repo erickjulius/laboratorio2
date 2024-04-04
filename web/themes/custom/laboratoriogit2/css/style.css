@@ -6,7 +6,7 @@
  */
 :root,
 [data-bs-theme=light] {
-  --bs-blue: red /*3/04/2024 cambiar estilo a rojo*/;
+  --bs-blue: pink /*4/04/2024 cambiar estilo a rosa*/;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
